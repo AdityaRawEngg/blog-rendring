@@ -20,6 +20,10 @@ Data is fetched using axios which can be used by adding "<script src="https://cd
 
 blogs API => " https://niravkpatel28.github.io/json-data-server/blogs/blogs.json "
 
+## Navigation
+
+Related Links in the aside tags can be used to navigate to the other blog
+
 # Live Demo
 
 Live demo for the project -> " https://adityarawengg.github.io/blog-rendring/ "
