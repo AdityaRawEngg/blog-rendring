@@ -1,4 +1,4 @@
-# blog-rendring
+# Blog-rendring using JS functionalities
 
 This projects is build to render blogs
 
@@ -22,4 +22,4 @@ blogs API => " https://niravkpatel28.github.io/json-data-server/blogs/blogs.json
 
 # Live Demo
 
-Live demo for the project -> "  "
+Live demo for the project -> " https://adityarawengg.github.io/blog-rendring/ "
